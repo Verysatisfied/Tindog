@@ -207,7 +207,10 @@ p {
   #title {
     text-align: center;
   }
-
+  
+.title-heading{
+text-align: center;
+}
   .skewed {
     transform: rotate(0);
     position: static;
